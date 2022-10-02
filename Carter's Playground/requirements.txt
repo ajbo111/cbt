@@ -1,0 +1,24 @@
+pyautogui
+discord_webhook
+cloudscraper
+win10toast
+pillow
+opencv-python
+colorama
+times
+termcolor >= 1.1.0
+websocket-client >= 1.3.3
+termcolor >= 1.1.0
+selenium >= 4.1.3
+requests >= 2.27.1
+playsound == 1.2.2
+win10toast >= 0.9
+websocket-client >= 1.3.3
+cloudscraper >= 1.2.60
+termcolor >= 1.1.0
+selenium >= 4.1.3
+requests >= 2.27.1
+playsound == 1.2.2
+win10toast >= 0.9
+websocket-client >= 1.3.3
+cloudscraper >= 1.2.60
